@@ -1,0 +1,34 @@
+# Challenge Name
+Help for builtins
+
+## My solve
+**Flag:** `pwn.college{w2QKSH25NoxraqhThbUBU43Wv3J.QX0ETO0wCOwEzNzEzW}`
+I followed the instructions from the challenge to get the clues and then obtained the flag.
+
+```bash
+ help challenge
+challenge: challenge [--fortune] [--version] [--secret SECRET]
+    This builtin command will read you the flag, given the right arguments!
+
+    Options:
+      --fortune         display a fortune
+      --version         display the version
+      --secret VALUE    prints the flag, if VALUE is correct
+
+    You must be sure to provide the right value to --secret. That value
+    is "w2QKSH25".
+hacker@man~help-for-builtins:~$ challenge --fortune
+Until Eve arrived, this was a man's world.
+                -- Richard Armour
+hacker@man~help-for-builtins:~$ challenge --secret w2QKSH25
+Correct! Here is your flag!
+pwn.college{w2QKSH25NoxraqhThbUBU43Wv3J.QX0ETO0wCOwEzNzEzW}
+```
+## Incorrect tangents I went on
+None
+
+## What I learned
+I learned about builtins
+
+## References 
+None
