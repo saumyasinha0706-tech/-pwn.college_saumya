@@ -58,7 +58,7 @@ pwn.college{8miBdRIfj4iAY-l-xAGdb1GMLR0.QXyMDO0wCOwEzNzEzW}
 None
 
 ## What I learned
-I learned about arguments
+I learned about finding files
 
 ## References 
 None
