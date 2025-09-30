@@ -18,7 +18,7 @@ pwn.college{AVn0xZE_VJNaPlizRofFojEIVim.QXwgDN1wCOwEzNzEzW}
 None
 
 ## What I learned
-it was a good revision of previous challenges
+i learned output process substitution
 
 ## References 
 None
